@@ -1,0 +1,4 @@
+# Live-Data-Update
+NPM INSTALL
+NPM START
+NODEMON + FILE NAME
